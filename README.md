@@ -18,6 +18,5 @@ Visitors can view projects that I have worked on, view my resume, leave a messag
 ## Wireframes:
 - ### Landing Page
 ![portfolioWireframe](assets/img/portfolioWireframe.png)
-- ### Project 1
 
 
