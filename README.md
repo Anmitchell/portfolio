@@ -17,7 +17,7 @@ Visitors can view projects that I have worked on, view my resume, leave a messag
 
 ## Wireframes:
 - ### Landing Page
-![portfolioWireframe](https://github.com/Anmitchell/portfolio/assets/42525927/e4987231-fdf9-483f-9fbb-9ef9909c809d)
+![portfolioWireframe](assets/img/portfolioWireframe.png)
 - ### Project 1
 
 
